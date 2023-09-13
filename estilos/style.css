@@ -16,4 +16,9 @@ body {
     background-color: aliceblue;
     width: 500px;
     margin: auto;
+    text-align: center;
+}
+
+.descricao {
+    font-weight: bold;
 }
